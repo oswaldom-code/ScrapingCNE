@@ -1,0 +1,14 @@
+
+#ignore folders
+.vscode/
+env1/
+env/
+__pycache__/
+
+
+#ignore file image
+.vscode
+
+#file
+*.log
+*.pyc
