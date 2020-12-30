@@ -2,7 +2,7 @@
 
 _  El [Consejo Nacional Electoral (CNE)](http://www.cne.gob.ve) es la institución que rige el tema electoral en en Venezuela, en su web oficial se puede consultar el nombre completo y en que lugar le corresponde votar a una persona, conociendo su número de identidad conocido también como número de cédula o NIE.
 
-_  Como respuesta, la web nos devuelve nombre completo de la persona y los datos del centro de votación (Nombre, Estado, Municipio, Parroquia y dirección).
+_  Como respuesta, la web nos devuelve nombre completo de la persona y los datos del centro de votación (Nombre, Estado, Municipio, Parroquia y dirección del centro electoral).
 
 _  Cuando queremos realizar un par de consulta se puede realizar de forma manual directamente en la web de la institución, sin embargo cuando se trata de gran cantidad de datos debemos recurrir a las técnicas de Scraping a fin de hacernos de la información necesaria.
 

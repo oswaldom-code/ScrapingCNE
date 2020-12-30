@@ -1,6 +1,6 @@
 """
 Autor: @OSWALDOM-CODE
-DESCRIPCIÓN: Código que hace escraping a la web del Consejo Nacional Electoral de Venezuela
+DESCRIPCIÓN: Código que realiza escraping a la web del Consejo Nacional Electoral de Venezuela
 para capturar datos básicos de los ciudadanos registrados dado su número de identidad 
 (nombre completo, Centro electoral, Estado, Municipio).
 """
